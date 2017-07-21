@@ -20,7 +20,7 @@
 
                     <div class="freebirdFormviewerViewHeaderTitleRow">
 
-                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> PARQUE NACIONAL – PICO DEL AGUILA Domingo 16 de julio de 2017</h3></div>
+                        <div class="freebirdFormviewerViewHeaderTitle" dir="auto" role="heading" aria-level="1"><h3> PARQUE NACIONAL – CASCADA LA CUEVA Domingo 23 de julio de 2017</h3></div>
 
                     </div>
 <br>
@@ -80,7 +80,7 @@
 
                         <h2>Descripción del recorrido </h2>
 
-                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la torre del reloj del parque Nacional, donde el Guía de caminatas hace un calentamiento previo y socializa las indicaciones para el recorrido. Continúa por la parte alta del subiendo por carabineros tanques del silencio y llegando a pico del águila; Pasando por excelentes miradores y disfrutando de toda una reserva de vida de nuestra ciudad.</p>
+                        <p align="justify" style="font-size: 11pt; line-height: 25px">El recorrido da inicio en la torre del reloj del parque Nacional, donde el Guía de caminatas hace un calentamiento previo y socializa las indicaciones para el recorrido. Continúa por la parte alta del subiendo por carabineros tanques del silencio y llegando a cascada la cueva; Pasando por excelentes miradores y disfrutando de toda una reserva de vida de nuestra ciudad.</p>
 
                         <!--<h2>Durante el recorrido se visitaran los siguientes atractivos:</h2>-->
                         <!--<ul class="ul_inicio">
@@ -130,7 +130,7 @@
 
                                         <td width="282" bgcolor="#deeaf6" style="border: 1px solid #5b9bd5; padding-top: 0cm; padding-bottom: 0cm; padding-left: 0.16cm; padding-right: 0.19cm">
 
-                                            <p>Domingo 16 de julio de 2017</p>
+                                            <p>Domingo 23 de julio de 2017</p>
 
                                         </td>
 
